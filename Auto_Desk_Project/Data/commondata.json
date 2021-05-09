@@ -1,0 +1,13 @@
+{
+  "browser":"chrome",
+  "url":"http://localhost:8888/",
+  "username":"admin",
+  "password":"admin",
+  "firstname":"purva",
+  "lastname":"gupta",
+  "company":"testyantra",
+  "phone":"9887744334",
+  "email":"purvagupta.pr108@gmail.com"
+  "website":"www.testyantrass.com"
+  
+  }
